@@ -1,0 +1,1 @@
+txt: Portugol é uma pseudo linguagem.
